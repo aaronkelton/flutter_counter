@@ -1,6 +1,10 @@
 # flutter_counter
 
+The completed code from this tutorial:
 https://bloclibrary.dev/#/fluttercountertutorial?id=flutter-counter-tutorial
+
+### Video Walkthrough
+https://www.loom.com/share/8aa3d793c9534a549db75977053af341
 
 ## Getting Started
 
